@@ -1,0 +1,15 @@
+fastapi[all]
+uvicorn[standard]
+SQLAlchemy
+psycopg2-binary
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt==3.2.2
+python-dotenv
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+umap-learn
+nxcurve
